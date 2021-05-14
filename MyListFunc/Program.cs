@@ -31,6 +31,20 @@ namespace MyListFunc
             {
                 Console.WriteLine(value);
             }
+
+            Console.WriteLine();
+            Console.WriteLine("*-----------*");
+            Console.WriteLine();
+
+            MyList<int> myListInt = new MyList<int>();
+            myListInt.Add(123);
+            myListInt.Add(321);
+            Console.WriteLine("MyListInt Count: " + myListInt.Count);
+
+            foreach (var value in myListInt.GetValue)
+            {
+                Console.WriteLine(value);
+            }
         }
     }
 }
