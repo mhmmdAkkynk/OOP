@@ -6,8 +6,8 @@ namespace MyListFunc
 {
     class MyList<T>
     {
-        T[] array;
-        T[] tempArray;
+        private T[] array;
+        private T[] tempArray;
         public MyList()
         {
             array = new T[0]; 
