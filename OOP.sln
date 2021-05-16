@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkerboard", "Checkerboar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAbstractDemos", "InterfaceAbstractDemos\InterfaceAbstractDemos.csproj", "{BB540DFB-6C56-4641-B9E3-9AD8DE5052C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSellingSimulation", "GameSellingSimulation\GameSellingSimulation.csproj", "{97138366-1AE3-4570-9648-A046534A9CF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BB540DFB-6C56-4641-B9E3-9AD8DE5052C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB540DFB-6C56-4641-B9E3-9AD8DE5052C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB540DFB-6C56-4641-B9E3-9AD8DE5052C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97138366-1AE3-4570-9648-A046534A9CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97138366-1AE3-4570-9648-A046534A9CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97138366-1AE3-4570-9648-A046534A9CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97138366-1AE3-4570-9648-A046534A9CF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
